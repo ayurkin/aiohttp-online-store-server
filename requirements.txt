@@ -1,0 +1,4 @@
+aiohttp==3.6.2
+motor==2.1.0
+umongo==2.2.0
+pymongo==3.10.1
